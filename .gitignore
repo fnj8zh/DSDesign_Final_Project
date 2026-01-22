@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (CSV/JSON/etc)
+# If your CSVs are large, it's better to keep them out of GitHub
+*.csv
+*.ipynb_checkpoints/
+
+# Kagglehub downloads
+~/.cache/kagglehub/
